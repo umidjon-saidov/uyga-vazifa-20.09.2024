@@ -1,0 +1,12 @@
+@font-face {
+  font-family: "700";
+  src: url(/fonts/BarlowCondensed-Bold.ttf);
+}
+@font-face {
+  font-family: "400";
+  src: url(/fonts/BarlowCondensed-Regular.ttf);
+}
+@font-face {
+  font-family: "400-2";
+  src: url(/fonts/Barlow-Regular.ttf);
+}
